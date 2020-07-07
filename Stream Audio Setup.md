@@ -1,3 +1,6 @@
+**After you dig into all this, I also did a 90 minute stream discussing what I use and how I use it. [*Check it out here.*](https://youtu.be/mx5VZZOk4P8)**
+
+
 **I do my streaming and stream recording with:**
 
 [*Streamlabs OBS*](https://streamlabs.com/)
